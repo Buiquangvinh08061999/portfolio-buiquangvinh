@@ -6,6 +6,8 @@
     --dark: #12141D;
 }
 
+
+
 .back-to-top {
     position: fixed;
     display: none;
@@ -220,9 +222,13 @@
 
 
 /*** Skills ***/
+/* #skill{
+    background: url(../img/sky-1.jpg);
+} */
 #skill .progress {
     height: 5px;
     border-radius: 5px;
+
 }
 
 #skill .progress .progress-bar {
